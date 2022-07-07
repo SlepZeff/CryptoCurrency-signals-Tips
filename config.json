@@ -64,21 +64,29 @@
     {
       "id": 2,
       "name_category": "Tips",
-      "title": "4C Trading Signal ",
-      "image": "https://raw.githubusercontent.com/SlepZeff/CryptoCurrency-signals-Tips/main/4c-trading.jpg",
-      "description": "4C Trading Signal is one of the best signal providers in the market right now. The company boasts a team of professional analysts and industry experts with years of experience",
-      "link": "https://slepzeff.github.io/CryptoCurrency-signals-Tips/guide1.html"
+      "title": "Learn2Trade",
+      "image": https://raw.githubusercontent.com/SlepZeff/CryptoCurrency-signals-Tips/main/learn2trade.png",
+      "description": "Learn2Trade is a trading signal platform that focuses on different financial instruments, including cryptocurrency, forex, and stocks. ",
+      "link": "https://slepzeff.github.io/CryptoCurrency-signals-Tips/guide2.html"
     },
     {
       "id": 3,
       "name_category": "Tips",
       "title": "4C Trading Signal ",
       "image": "https://raw.githubusercontent.com/SlepZeff/CryptoCurrency-signals-Tips/main/4c-trading.jpg",
-      "description": " 4C Trading Signal is one of the best signal providers in the market right now. The company boasts a team of professional analysts and industry experts with years of experience",
+      "description": "4C Trading Signal is one of the best signal providers in the market right now. The company boasts a team of professional analysts and industry experts with years of experience",
       "link": "https://slepzeff.github.io/CryptoCurrency-signals-Tips/guide1.html"
     },
     {
       "id": 4,
+      "name_category": "Tips",
+      "title": "Learn2Trade",
+      "image": https://raw.githubusercontent.com/SlepZeff/CryptoCurrency-signals-Tips/main/learn2trade.png",
+      "description": "Learn2Trade is a trading signal platform that focuses on different financial instruments, including cryptocurrency, forex, and stocks. ",
+      "link": "https://slepzeff.github.io/CryptoCurrency-signals-Tips/guide2.html"
+    },
+    {
+      "id": 5,
       "name_category": "Tips",
       "title": "4C Trading Signal ",
       "image": "https://raw.githubusercontent.com/SlepZeff/CryptoCurrency-signals-Tips/main/4c-trading.jpg",
@@ -86,12 +94,12 @@
       "link": "https://slepzeff.github.io/CryptoCurrency-signals-Tips/guide1.html"
     },
     {
-      "id": 5,
+      "id": 6,
       "name_category": "Tips",
-      "title": "4C Trading Signal ",
-      "image": "https://raw.githubusercontent.com/SlepZeff/CryptoCurrency-signals-Tips/main/4c-trading.jpg",
-      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
-      "link": "https://slepzeff.github.io/CryptoCurrency-signals-Tips/guide1.html"
+      "title": "Learn2Trade",
+      "image": https://raw.githubusercontent.com/SlepZeff/CryptoCurrency-signals-Tips/main/learn2trade.png",
+      "description": "Learn2Trade is a trading signal platform that focuses on different financial instruments, including cryptocurrency, forex, and stocks. ",
+      "link": "https://slepzeff.github.io/CryptoCurrency-signals-Tips/guide2.html"
     }
     
   ]
